@@ -1,0 +1,8 @@
+name = "testerrrrr-500f8771"
+compatibility_date = "2023-12-18"
+
+[env.production]
+name = "testerrrrr-500f8771"
+
+[[env.production.pages_build_output_dir]]
+directory = ".next"
